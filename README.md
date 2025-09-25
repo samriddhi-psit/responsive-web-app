@@ -25,6 +25,10 @@ This project demonstrates clean UI/UX, API integration, and modern frontend best
 
 ---
 
+## 🔴 Live Demo  
+Deployed on **Vercel** → [https://responsive-web-app.vercel.app/](https://responsive-web-app.vercel.app/)
+
+
 ## 📂 Folder Structure
 
 responsive-web-page/
